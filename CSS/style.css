@@ -1,0 +1,33 @@
+* {
+    margin: 1;
+    padding: 1;
+  }
+  p span {
+     color: orangered;
+     font-size: 20px;
+  }
+  h1 {
+      color: palegreen;
+  }
+  h2,h3, h4, h5, h6 {
+      color: purple;
+  }
+  p em {
+      color: tomato;
+  }
+  
+  p a {
+      color: salmon;
+  }
+  p span{
+      text-decoration: underline;
+  }
+  p a {
+      text-decoration: underline;
+  }
+  #destacado {
+      color: red;
+  }
+  .destacado {
+      color: silver;
+  }
